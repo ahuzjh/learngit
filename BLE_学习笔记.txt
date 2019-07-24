@@ -9,3 +9,4 @@
 	非常强的noise（例如干扰器），可以造成高RSSI、高LQI（也就是说，RSSI高也不说明信号一定好）
 	信号非常强，noise较低，RSSI高、LQI低
 	如果信号过强（导致接收饱和），也可能造成高RSSI和高LQI
+ aaaaa
